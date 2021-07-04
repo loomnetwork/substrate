@@ -542,6 +542,15 @@
 			"website": "https://centrifuge.io/"
 		},
 		{
+			"prefix": 187,
+			"network": "loomnetwork",
+			"displayName": "Loom Network",
+			"symbols": ["LOOM"],
+			"decimals": [18],
+			"standardAccount": "*25519",
+			"website": "https://loomx.io"
+		},
+		{
 			"prefix": 252,
 			"network": "social-network",
 			"displayName": "Social Network",
